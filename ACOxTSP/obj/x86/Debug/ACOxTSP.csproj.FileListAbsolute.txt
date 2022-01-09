@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\ACOxTSP\ACOxTSP\bin\Debug\ACOxTSP.exe
+C:\Users\Administrator\Desktop\ACOxTSP\ACOxTSP\bin\Debug\ACOxTSP.pdb
+C:\Users\Administrator\Desktop\ACOxTSP\ACOxTSP\bin\Debug\Metaheuristic.dll
+C:\Users\Administrator\Desktop\ACOxTSP\ACOxTSP\obj\x86\Debug\ACOxTSP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ACOxTSP\ACOxTSP\obj\x86\Debug\ACOxTSP.exe
+C:\Users\Administrator\Desktop\ACOxTSP\ACOxTSP\obj\x86\Debug\ACOxTSP.pdb
+D:\Asus Notebook_20150926_backup\MetaYourHeuristic Practice\Aco\ACOxTSP\ACOxTSP\obj\x86\Debug\ACOxTSP.exe
+D:\Asus Notebook_20150926_backup\MetaYourHeuristic Practice\Aco\ACOxTSP\ACOxTSP\obj\x86\Debug\ACOxTSP.pdb
+D:\Asus Notebook_20150926_backup\MetaYourHeuristic Practice\Aco\ACOxTSP\ACOxTSP\bin\Debug\ACOxTSP.exe
+D:\Asus Notebook_20150926_backup\MetaYourHeuristic Practice\Aco\ACOxTSP\ACOxTSP\bin\Debug\ACOxTSP.pdb
+D:\Asus Notebook_20150926_backup\MetaYourHeuristic Practice\Aco\ACOxTSP\ACOxTSP\bin\Debug\Metaheuristic.dll
+D:\Asus Notebook_20150926_backup\MetaYourHeuristic Practice\Aco\ACOxTSP\ACOxTSP\obj\x86\Debug\ACOxTSP.csprojResolveAssemblyReference.cache
